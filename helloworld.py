@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-printf("Hello World!")
+print("Hello World!")
+print("Hello Git")
